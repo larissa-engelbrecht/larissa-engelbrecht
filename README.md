@@ -21,19 +21,6 @@
 
 A living learning journal — notes, examples, and practice projects documenting the journey through the BSc in Applied AI and beyond. One commit at a time.
 
----
-
-## ∴ &nbsp; Active courses
-
-| Course | Status |
-|--------|--------|
-| Claude Code in Action | 🟡 In progress |
-| GitHub Copilot Certification | ⬜ Not started |
-| GitHub Actions | ⬜ Not started |
-| MongoDB Associate Developer (Java) | ⬜ Not started |
-| Spring Boot | ⬜ Not started |
-| Kafka + Event-Driven Architecture | ⬜ Not started |
-| Node.js + TypeScript Backend | ⬜ Not started |
 
 ---
 
