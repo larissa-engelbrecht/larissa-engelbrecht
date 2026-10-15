@@ -48,7 +48,6 @@ I'm IAPP AIGP certified, studying a BSc in Applied AI, and sharing some of what 
 |-------|--------|
 | GitHub Actions CI/CD | ✅ Done |
 | Python (typing, uv, pytest) | 🔄 In progress |
-| AI safety foundations (BlueDot) | 🔄 In progress |
 | Evals with Inspect | ⬜ Up next |
 | Model serving (llama.cpp → vLLM) | ⬜ Up next |
 | Kubernetes for research workloads | ⬜ Up next |
